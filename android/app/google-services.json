@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "84380060810",
+    "project_id": "loginpage-e67b6",
+    "storage_bucket": "loginpage-e67b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84380060810:android:4ea670333db49b68e33173",
+        "android_client_info": {
+          "package_name": "com.example.chatbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIjuUOwT0XhBMe_NapSt0f3xfs0em59VQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
